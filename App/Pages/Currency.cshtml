@@ -1,0 +1,23 @@
+@page
+@model CurrencyModel
+@{
+    ViewData["Title"] = "INR to USD Converter";
+}
+
+<div class="text-center">
+    <h1 class="display-4">INR to USD Converter</h1>
+    <form method="post">
+        <div class="form-group">
+            <label for="amountInInr">Amount in INR:</label>
+            <input type="number" class="form-control" id="amountInInr" name="amountInInr" required />
+        </div>
+        <button type="submit" class="btn btn-primary mt-4">Convert</button>
+    </form>
+
+    @if (Model.AmountInUsd != null)
+    {
+        <div class="mt-5">
+            <h2>Converted Amount: @Model.AmountInUsd USD</h2>
+        </div>
+    }
+</div>
