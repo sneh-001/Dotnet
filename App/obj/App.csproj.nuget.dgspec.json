@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sneh.soni\\Desktop\\Internship_Sneh\\Team_C\\Dotnet\\App\\App.csproj": {}
+    "C:\\Users\\kevin.mistry\\Desktop\\DotNet-C\\Dotnet\\App\\App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sneh.soni\\Desktop\\Internship_Sneh\\Team_C\\Dotnet\\App\\App.csproj": {
+    "C:\\Users\\kevin.mistry\\Desktop\\DotNet-C\\Dotnet\\App\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sneh.soni\\Desktop\\Internship_Sneh\\Team_C\\Dotnet\\App\\App.csproj",
+        "projectUniqueName": "C:\\Users\\kevin.mistry\\Desktop\\DotNet-C\\Dotnet\\App\\App.csproj",
         "projectName": "App",
-        "projectPath": "C:\\Users\\sneh.soni\\Desktop\\Internship_Sneh\\Team_C\\Dotnet\\App\\App.csproj",
-        "packagesPath": "C:\\Users\\sneh.soni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sneh.soni\\Desktop\\Internship_Sneh\\Team_C\\Dotnet\\App\\obj\\",
+        "projectPath": "C:\\Users\\kevin.mistry\\Desktop\\DotNet-C\\Dotnet\\App\\App.csproj",
+        "packagesPath": "C:\\Users\\kevin.mistry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin.mistry\\Desktop\\DotNet-C\\Dotnet\\App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sneh.soni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kevin.mistry\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\sneh.soni\\Desktop\\Internship_Sneh\\Installation\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\kevin.mistry\\Downloads\\dotnet-sdk-9.0.102-win-x64\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
